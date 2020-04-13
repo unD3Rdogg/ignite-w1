@@ -9,3 +9,16 @@ h3, h1{
 ul{
     display: inline-table;
 }
+
+p img{
+    margin-left: 10px; 
+    margin-right: 10px; 
+    border: 10px solid #a89f98; 
+    border-radius: 50px;
+}
+
+input{
+    border: 3px solid #a89f98;
+    border-radius: 50px;
+    border-style: groove;
+}
