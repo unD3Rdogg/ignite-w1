@@ -1,5 +1,11 @@
-p{
-    margin-right: 10px;
-    border: 10px solid #a89f98;
-    border-radius: 50px;
+div{
+    text-align: center; 
+}
+
+h3, h1{
+    text-align: center;
+}
+
+ul{
+    display: inline-table;
 }
